@@ -132,3 +132,7 @@ id,name,url,contact,format,sets
 131,unimi.CRIANDO,https://riviste.unimi.it/index.php/CRIANDO/oai,riviste@unimi.it,oai_dc,all
 132,unimi.SSMD,https://riviste.unimi.it/index.php/SSMD/oai,riviste@unimi.it,oai_dc,all
 133,unimi.lessicodelcomico,https://riviste.unimi.it/index.php/lessicodelcomico/oai,riviste@unimi.it,oai_dc,all
+134,unibo.cinergie,https://cinergie.unibo.it/oai,marialaura.vignocchi@unibo.it,oai_dc,all
+135,unibo.cpcl,https://cpcl.unibo.it/oai,marialaura.vignocchi@unibo.it,oai_dc,all
+136,unibo.maes,https://maes.unibo.it/oai,marialaura.vignocchi@unibo.it,oai_dc,all
+137,unibo.zmj,https://zmj.unibo.it/oai,marialaura.vignocchi@unibo.it,oai_dc,all
