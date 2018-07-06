@@ -128,3 +128,7 @@ id,name,url,contact,format,sets
 127,unina.schola,http://www.serena.unina.it/index.php/schola/oai,delledon@libero.it,oai_dc,all
 128,unina.upland,http://www.serena.unina.it/index.php/upland/oai,delledon@libero.it,oai_dc,all
 129,unirc.archistor,http://pkp.unirc.it/ojs/index.php/archistor/oai,giuseppina.scamardi@unirc.it,oai_dc,all
+130,unimi.BEO,https://riviste.unimi.it/index.php/BEO/oai,riviste@unimi.it,oai_dc,all
+131,unimi.CRIANDO,https://riviste.unimi.it/index.php/CRIANDO/oai,riviste@unimi.it,oai_dc,all
+132,unimi.SSMD,https://riviste.unimi.it/index.php/SSMD/oai,riviste@unimi.it,oai_dc,all
+133,unimi.lessicodelcomico,https://riviste.unimi.it/index.php/lessicodelcomico/oai,riviste@unimi.it,oai_dc,all
