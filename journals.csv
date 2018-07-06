@@ -136,3 +136,6 @@ id,name,url,contact,format,sets
 135,unibo.cpcl,https://cpcl.unibo.it/oai,marialaura.vignocchi@unibo.it,oai_dc,all
 136,unibo.maes,https://maes.unibo.it/oai,marialaura.vignocchi@unibo.it,oai_dc,all
 137,unibo.zmj,https://zmj.unibo.it/oai,marialaura.vignocchi@unibo.it,oai_dc,all
+138,unina.funes,http://www.serena.unina.it/index.php/funes/oai,delledon@libero.it,oai_dc,all
+139,unina.sefer,http://www.serena.unina.it/index.php/sefer/oai,delledon@libero.it,oai_dc,all
+140,unina.sigma,http://www.serena.unina.it/index.php/sigma/oai,delledon@libero.it,oai_dc,all
