@@ -2,7 +2,7 @@ id,name,url,contact,format,sets
 1,depositolegale,http://tesi.depositolegale.it/cgi/oai2,giovanni.bergamin@depositolegale.it,didl,all
 2,imtlucca,http://e-theses.imtlucca.it/cgi/oai2,"t.iannizzi@imtlucca.it, leonardo.mezzina@imtlucca.it",didl,74797065733D696D745F706864746865736973
 3,liuc,http://mylibrary.liuc.it/oai/request,"lballestra@liuc.it, arefraschini@liuc.it",didl,hdl_2468_2
-4,luiss,http://eprints.luiss.it/cgi/oai2,"cannulli@luiss.it, eprints@luiss.it",didl,74797065733D746865736973
+4,luiss,https://eprints.luiss.it/cgi/oai2,"cannulli@luiss.it, eprints@luiss.it",didl,74797065733D746865736973
 5,roma3,http://dspace-roma3.caspur.it/dspace-oai-roma3/request,staccone@uniroma3.it,didl,hdl_2307_55
 6,unibg,https://aisberg.unibg.it/oai/request,aisberg@unibg.it,didl,com_10446_73164
 7,unibo,http://amsdottorato.unibo.it/cgi/oai2,"marialaura.vignocchi@unibo.it, roberta.lauriola@unibo.it",didl,all
@@ -11,18 +11,18 @@ id,name,url,contact,format,sets
 11,unicatt,http://tesionline.unicatt.it/dspace-oai/request,sara.ricetto@unicatt.it,didl,all
 12,unict,http://archivia.unict.it/dspace-oai/request,angelo@unict.it,didl,hdl_10761_28
 13,unife,http://eprints.unife.it/cgi/oai2,uib@unife.it,didl,74797065733D746865736973
-14,unimi,http://air.unimi.it/oai/request,"paola.galimberti@unimi.it,air.admin@unimi.it,laura.gioppo@unimi.it,laura.santoro1@unimi.it",didl,col_2434_146884
-15,unimib,http://boa.unimib.it/oai/request,"bonaria.biancu@unimib.it, boa@unimib.it",didl,col_10281_9145
+14,unimi,https://air.unimi.it/oai/request,"paola.galimberti@unimi.it,air.admin@unimi.it,laura.gioppo@unimi.it,laura.santoro1@unimi.it",didl,col_2434_146884
+15,unimib,https://boa.unimib.it/oai/request,"bonaria.biancu@unimib.it, boa@unimib.it",didl,col_10281_9145
 16,unimol,http://road.unimol.it/oai/request,mancini@unimol.it,didl,hdl_2192_22
 17,unina,http://www.fedoa.unina.it/cgi/oai2,"ronca@unina.it, nmadonna@unina.it",didl,74797065733D7468657369735F706864
 18,uninsubria,http://insubriaspace.cilea.it/dspace-oai/request,daniela.cermesoni@uninsubria.it,didl,hdl_10277_2
-19,unipi,http://etd.adm.unipi.it/ETD-db/NDLTD-OAI/oai.pl,g.castriotta@adm.unipi.it,didl,dtype:PhD
+19,unipi,https://etd.adm.unipi.it/ETD-db/NDLTD-OAI/oai.pl,g.castriotta@adm.unipi.it,didl,dtype:PhD
 20,unipr,http://dspace-unipr.cilea.it/dspace-oai/request,fabrizia.bevilacqua@unipr.it,didl,hdl_1889_492
 21,uniroma1,https://iris.uniroma1.it/oai/request,r.fazio@caspur.it,didl,com_11573_784460
 22,unisa,http://elea.unisa.it/oai/request,grufino@unisa.it,didl,com_10556_45
 23,uniss,http://eprints.uniss.it/cgi/oai2,"flmanca@uniss.it, amelis@uniss.it",didl,74797065733D646F63746F72616C5F746865736973
 24,unitn,http://eprints-phd.biblio.unitn.it/cgi/oai2,"ePrints@unitn.it, francesca.valentini@unitn.it, filippo.moser@unitn.it, valentina.fasolino@unitn.it",didl,all
-25,units,http://www.openstarts.units.it/dspace-oai/request,piscanc@units.it,didl,hdl_10077_9
+25,units,https://www.openstarts.units.it/dspace-oai/request,piscanc@units.it,didl,hdl_10077_9
 26,unive,http://dspace.unive.it/oai/request,"sattin@unive.it, protocollo.pec@unive.it, archivio.tesi@unive.it",didl,hdl_10579_57
 27,univpm,https://iris.univpm.it/oai/request,"marinella.mazzieri@univpm.it, d.ripanti@univpm.it",didl,col_11566_241824
 28,univr,https://iris.univr.it/oai/request,"maria.gabaldo@univr.it, open.archive@ateneo.univr.it, giovanni.baietta@collab.univr.it",didl,col_11562_924246
@@ -30,9 +30,9 @@ id,name,url,contact,format,sets
 30,unimore,https://morethesis.unimore.it/ETD-db/NDLTD-OAI/oai.pl,danilo.crecchia@unimore.it,didl,dtype:PhD
 31,uniud,http://dspace-uniud.cilea.it/dspace-oai/request,sandro.themel@uniud.it,didl,hdl_10990_4
 32,unipa,https://iris.unipa.it/oai/request,"marcorosolino.chifari@unipa.it, luca.conigliaro@unipa.it",didl,col_10447_71205 
-33,polimi,http://www.politesi.polimi.it/dspace-oai/bncf,"michele.rubini@polimi.it, rossana.zucchinali@polimi.it",didl,hdl_10589_32801
+33,polimi,https://www.politesi.polimi.it/dspace-oai/bncf,"michele.rubini@polimi.it, rossana.zucchinali@polimi.it",didl,hdl_10589_32801
 34,sissa,https://iris.sissa.it/oai/request,talpo@sissa.it,didl,col_20.500.11767_64 
-35,lumsa,http://ricercascientifica.lumsa.it/ezoai/oai2,"n.buonocore@lumsa.it, sistemi_informativi@lumsa.it",didl,all
+35,lumsa,https://ricercascientifica.lumsa.it/ezoai/oai2,"n.buonocore@lumsa.it, sistemi_informativi@lumsa.it",didl,all
 36,unifi,https://flore.unifi.it/oai/request,valdo.pasqui@unifi.it,didl,com_2158_1001462
 37,unisi,https://usiena-air.unisi.it/oai/harvest-bnc,cristina.mencarelli@unisi.it,didl,phdThesis
 38,unifg,https://fair.unifg.it/oai/request,,didl,col_11369_320420
