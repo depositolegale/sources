@@ -13,7 +13,7 @@ id,name,url,contact,format,sets
 13,unife,http://eprints.unife.it/cgi/oai2,uib@unife.it,didl,74797065733D746865736973
 14,unimi,https://air.unimi.it/oai/request,"paola.galimberti@unimi.it,air.admin@unimi.it,laura.gioppo@unimi.it,laura.santoro1@unimi.it",didl,col_2434_146884
 15,unimib,https://boa.unimib.it/oai/request,"bonaria.biancu@unimib.it, boa@unimib.it",didl,col_10281_9145
-16,unimol,http://road.unimol.it/oai/request,mancini@unimol.it,didl,hdl_2192_22
+16,unimol,https://iris.unimol.it/oai/request,"mancini@unimol.it, openair@unimol.it",didl,col_11695_66211
 17,unina,http://www.fedoa.unina.it/cgi/oai2,"ronca@unina.it, nmadonna@unina.it",didl,74797065733D7468657369735F706864
 18,uninsubria,http://insubriaspace.cineca.it/dspace-oai/request,daniela.cermesoni@uninsubria.it,didl,hdl_10277_2
 19,unipi,https://etd.adm.unipi.it/ETD-db/NDLTD-OAI/oai.pl,g.castriotta@adm.unipi.it,didl,dtype:PhD
