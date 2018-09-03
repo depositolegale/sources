@@ -17,7 +17,7 @@ id,name,url,contact,format,sets
 17,unina,http://www.fedoa.unina.it/cgi/oai2,"ronca@unina.it, nmadonna@unina.it",didl,74797065733D7468657369735F706864
 18,uninsubria,http://insubriaspace.cilea.it/dspace-oai/request,daniela.cermesoni@uninsubria.it,didl,hdl_10277_2
 19,unipi,https://etd.adm.unipi.it/ETD-db/NDLTD-OAI/oai.pl,g.castriotta@adm.unipi.it,didl,dtype:PhD
-20,unipr,http://dspace-unipr.cilea.it/dspace-oai/request,fabrizia.bevilacqua@unipr.it,didl,hdl_1889_492
+20,unipr,http://dspace-unipr.cineca.it/dspace-oai/request,fabrizia.bevilacqua@unipr.it,didl,hdl_1889_492
 21,uniroma1,https://iris.uniroma1.it/oai/request,r.fazio@caspur.it,didl,com_11573_784460
 22,unisa,http://elea.unisa.it/oai/request,grufino@unisa.it,didl,com_10556_45
 23,uniss,http://eprints.uniss.it/cgi/oai2,"flmanca@uniss.it, amelis@uniss.it",didl,74797065733D646F63746F72616C5F746865736973
