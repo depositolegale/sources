@@ -15,7 +15,7 @@ id,name,url,contact,format,sets
 15,unimib,https://boa.unimib.it/oai/request,"bonaria.biancu@unimib.it, boa@unimib.it",didl,col_10281_9145
 16,unimol,http://road.unimol.it/oai/request,mancini@unimol.it,didl,hdl_2192_22
 17,unina,http://www.fedoa.unina.it/cgi/oai2,"ronca@unina.it, nmadonna@unina.it",didl,74797065733D7468657369735F706864
-18,uninsubria,http://insubriaspace.cilea.it/dspace-oai/request,daniela.cermesoni@uninsubria.it,didl,hdl_10277_2
+18,uninsubria,http://insubriaspace.cineca.it/dspace-oai/request,daniela.cermesoni@uninsubria.it,didl,hdl_10277_2
 19,unipi,https://etd.adm.unipi.it/ETD-db/NDLTD-OAI/oai.pl,g.castriotta@adm.unipi.it,didl,dtype:PhD
 20,unipr,http://dspace-unipr.cineca.it/dspace-oai/request,fabrizia.bevilacqua@unipr.it,didl,hdl_1889_492
 21,uniroma1,https://iris.uniroma1.it/oai/request,r.fazio@caspur.it,didl,com_11573_784460
