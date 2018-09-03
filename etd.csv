@@ -41,6 +41,6 @@ id,name,url,contact,format,sets
 41,sssup,https://dta.santannapisa.it/ETD-db/NDLTD-OAI/oai.pl,giovanni.castriotta@unipi.it,didl,dtype:PhD
 42,poliba,https://iris.poliba.it/oai/request,b.pastorelli@cineca.it,didl,col_11589_92814
 43,unime,https://iris.unime.it/oai/request,ricerca@unime.it,didl,col_11570_3101346
-44,polito,http://porto.polito.it/cgi/oaithesis,paolo.tealdi@polito.it,didl,magazzinidigitali
+44,polito,https://iris.polito.it/oai/request,paolo.tealdi@polito.it,didl,col_11583_2614423
 45,iulm,https://apeiron.iulm.it/oai/request,apeiron@iulm.it,didl,col_10808_21365
 46,uniba,https://ricerca.uniba.it/oai/request,onofrio.erriquez@uniba.it,didl,col_11586_220559
