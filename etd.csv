@@ -1,7 +1,7 @@
 id,name,url,contact,format,sets
 1,depositolegale,http://tesi.depositolegale.it/cgi/oai2,giovanni.bergamin@depositolegale.it,didl,all
 2,imtlucca,http://e-theses.imtlucca.it/cgi/oai2,"t.iannizzi@imtlucca.it, leonardo.mezzina@imtlucca.it",didl,74797065733D696D745F706864746865736973
-3,liuc,http://arl.liuc.it/oai/request,"lballestra@liuc.it, arefraschini@liuc.it",didl,hdl_2468_2
+3,liuc,http://arl.liuc.it/oai/request,"lballestra@liuc.it, arefraschini@liuc.it",didl,col_2468_2
 4,luiss,https://eprints.luiss.it/cgi/oai2,"cannulli@luiss.it, eprints@luiss.it",didl,74797065733D746865736973
 5,roma3,http://dspace-roma3.caspur.it/dspace-oai-roma3/request,staccone@uniroma3.it,didl,hdl_2307_55
 6,unibg,https://aisberg.unibg.it/oai/request,aisberg@unibg.it,didl,com_10446_73164
