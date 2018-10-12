@@ -28,7 +28,7 @@ id,name,url,contact,format,sets
 28,univr,https://iris.univr.it/oai/request,"maria.gabaldo@univr.it, open.archive@ateneo.univr.it, giovanni.baietta@collab.univr.it",didl,col_11562_924246
 29,unipd,http://paduaresearch.cab.unipd.it/cgi/oai2_hn,antonella.zane@unipd.it,didl,74797065733D746573695F64695F646F74746F7261746F
 30,unimore,https://morethesis.unimore.it/ETD-db/NDLTD-OAI/oai.pl,danilo.crecchia@unimore.it,didl,dtype:PhD
-31,uniud,http://dspace-uniud.cilea.it/dspace-oai/request,sandro.themel@uniud.it,didl,hdl_10990_4
+31,uniud,https://air.uniud.it/oai/request,catalogo.air@uniud.it,didl,col_11390_1123315
 32,unipa,https://iris.unipa.it/oai/request,"marcorosolino.chifari@unipa.it, luca.conigliaro@unipa.it",didl,col_10447_71205 
 33,polimi,https://www.politesi.polimi.it/dspace-oai/bncf,"michele.rubini@polimi.it, rossana.zucchinali@polimi.it",didl,hdl_10589_32801
 34,sissa,https://iris.sissa.it/oai/request,talpo@sissa.it,didl,col_20.500.11767_64 
